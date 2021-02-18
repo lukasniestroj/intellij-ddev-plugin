@@ -1,4 +1,4 @@
-package com.github.lukasniestroj.intellijddevplugin
+package com.github.lukasniestroj.intellijddevtools
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

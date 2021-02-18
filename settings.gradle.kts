@@ -1,1 +1,1 @@
-rootProject.name = "intellij-ddev-plugin"
+rootProject.name = "intellij-ddev-tools"

@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# intellij-ddev-plugin Changelog
+# intellij-ddev-tools Changelog
 
 ## [Unreleased]
 ### Added

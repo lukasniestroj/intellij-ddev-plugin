@@ -1,6 +1,6 @@
-package com.github.lukasniestroj.intellijddevplugin.services
+package com.github.lukasniestroj.intellijddevtools.services
 
-import com.github.lukasniestroj.intellijddevplugin.MyBundle
+import com.github.lukasniestroj.intellijddevtools.MyBundle
 
 class MyApplicationService {
 

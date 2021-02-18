@@ -1,6 +1,6 @@
-package com.github.lukasniestroj.intellijddevplugin.listeners
+package com.github.lukasniestroj.intellijddevtools.listeners
 
-import com.github.lukasniestroj.intellijddevplugin.services.MyProjectService
+import com.github.lukasniestroj.intellijddevtools.services.MyProjectService
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
